@@ -1,0 +1,6 @@
+projectKey=sonar:integrate
+serverUrl=http://localhost:9000
+serverVersion=7.2.0.13530
+dashboardUrl=http://localhost:9000/dashboard?id=sonar%3Aintegrate
+ceTaskId=AWQgiRR6HrvEOlU8bSoz
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWQgiRR6HrvEOlU8bSoz
